@@ -1,0 +1,11 @@
+# Carpetas de Visual Studio
+.vs/
+
+# Build
+bin/
+obj/
+
+# Archivos de usuario
+*.user
+*.suo
+*.userprefs

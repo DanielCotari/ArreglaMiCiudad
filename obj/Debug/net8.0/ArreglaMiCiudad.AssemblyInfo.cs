@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArreglaMiCiudad")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+763c8051901c778f7663548a183f3fea547a9baa")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArreglaMiCiudad")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArreglaMiCiudad")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
